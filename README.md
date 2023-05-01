@@ -26,4 +26,4 @@ Things you may want to cover:
 <!-- Discount.create(name: "Summer Sale", percentage_off: 20, start_date: Date.new(2023, 6, 1), end_date: Date.new(2023, 9, 1))
 Discount.create(name: "Black Friday", percentage_off: 30, start_date: Date.new(2023, 11, 23), end_date: Date.new(2023, 11, 27)) -->
 
-<!-- book = Book.create!(title: 'Rich_dad_poor_dad', description: 'Best book for your personal finance', -->
+<!-- book = Book.create!(title: 'Rich_dad_poor_dad', description: 'Best book for your personal finance', --># bookstore
